@@ -41,4 +41,4 @@ To build an interactive, clean, and professional Excel dashboard that helps unde
 - How sales change daily  
 
 ## Dashboard Preview  
-
+![Dashboard](Dashboard.png)
